@@ -1,0 +1,24 @@
+# Tider Alchemy: Maints Lube
+
+[head=1]Tider Alchemy: Maints Lube[/head]
+──────────────────────────────────────────
+                                             [italic]By Devin Foster[/italic]
+
+[head=3]Materials List:[/head]
+[bullet/]1 Shaker
+[bullet/]1 Reagent Grinder
+[bullet/]1 Microwave
+[bullet/]1 Electrolysis Unit
+[bullet/]1 Bucket
+[bullet/]1 Glass
+[bullet/]1 Steel
+[bullet/]75u Water
+──────────────────────────────────────────
+[bullet/]Step 1: Electrolyze 55 units of the water, and add it to the bucket.
+[bullet/]Step 2: Grind the steel and glass together.
+[bullet/]Step 3: Heat the mix until it forms fersilicite.
+[bullet/]Step 4: Transfer the fersilicite into the bucket.
+[bullet/]Step 5: Transfer the remaining 20 units of water into the bucket.
+[bullet/]Step 6: [bold]Enjoy.[/bold]
+
+[color=#a6a6a6]NOTE: If you are doing this multiple times, you will need more than one container, otherwise the heated container will automatically form the electrolyzed water into hydroxide.[/color]

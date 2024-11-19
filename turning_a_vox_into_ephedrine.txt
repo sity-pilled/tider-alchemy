@@ -1,0 +1,35 @@
+# Tider Alchemy: Turning a Vox into Ephedrine
+
+[head=1]Tider Alchemy: Turning a Vox into Ephedrine[/head]
+──────────────────────────────────────────
+                                             [italic]By Devin Foster[/italic]
+
+[head=3]Materials List:[/head]
+[bullet/]1 Vox Corpse
+[bullet/]1 Centrifuge
+[bullet/]1 Electrolysis Unit
+[bullet/]1 Reagent Grinder
+[bullet/]1 Hot Plate
+[bullet/]1 Meat Spike
+[bullet/]1 Knife
+[bullet/]1 Bucket
+[bullet/]1 Beaker
+[bullet/]1 Vial
+[bullet/]1 Syringe
+[bullet/]1 Chem Master (optional)
+[bullet/]50u Welding Fuel
+[bullet/]30u Sugar
+──────────────────────────────────────────
+If the centrifuge, hot plate, electrolysis unit, or reagent grinder aren’t obtainable, you can optionally bribe chemistry with plasma from cargo to 
+do it for you.
+
+[bullet/]Step 1: Draw 30u of blood from the corpse and heat it over the hot plate.
+[bullet/]Step 2: Fill the vial with welding fuel and put it into the centrifuge.
+[bullet/]Step 3: Put the boiled vox blood and the vial of centrifuged welding fuel into the bucket.
+[bullet/]Step 4: Butcher the vox corpse, and grind four of the slices of meat (the fifth can be discarded or eaten).
+[bullet/]Step 5: Put the liquified vox flesh into the electrolysis machine.
+[bullet/]Step 6: Mix 20u of welding fuel with the electrolysed vox slurry.
+[bullet/]Step 7: Dump the previous mixture into the bucket.
+[bullet/]Step 8: Add the 30u of sugar into the bucket.
+[bullet/]Step 9 (Optional): Pour the mix into beakers and purify it in the Chem Master.
+[bullet/]Step 10: [bold]Enjoy[/bold]

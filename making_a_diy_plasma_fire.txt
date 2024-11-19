@@ -1,0 +1,28 @@
+# Tider Alchemy: Making A DIY Plasma Fire
+
+[head=1]Tider Alchemy: Making A DIY Plasma Fire[/head]
+──────────────────────────────────────────
+                                             [italic]By Devin Foster[/italic]
+
+[head=3]Materials List:[/head]
+[bullet/]3 Plasteel
+[bullet/]6 Plastic
+[bullet/]1 Centrifuge
+[bullet/]1 Electrolysis Machine
+[bullet/]1 Reagent Grinder
+[bullet/]1 Lighter
+[bullet/]1 Bucket
+[bullet/]1 Large Beaker
+[bullet/]1 Vial
+[bullet/]60u Water
+[bullet/]75u Welding Fuel
+──────────────────────────────────────────
+[bullet/]Step 1: Centrifuge 50u of the welding fuel and pour it into the bucket.
+[bullet/]Step 2: Grind the 6 plastic and pour it into the bucket.
+[bullet/]Step 3: Pour the remaining 25u of welding fuel into the bucket.
+[bullet/]Step 4: Put all 60u of the water into the electrolysis machine and pour it into the bucket. Make sure to pour all 60u at the same time.
+[bullet/]Step 5: Grind up the plasteel.
+[bullet/]Step 6: Move the bucket to the location where you want the plasma fire.
+[bullet/]Step 7: Ignite the lighter, and set it next to the bucket.
+[bullet/]Step 8: Dump the ground plasteel into the bucket. Pour it all at the same time.
+[bullet/]Step 9: Run.
